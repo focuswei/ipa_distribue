@@ -2,31 +2,31 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>items</key>
-    <array>
-        <dict>
-            <key>assets</key>
-            <array>
-                <string>manifest.plist</string>
-                <dict>
-                    <key>kind</key>
-                    <string>software-package</string>
-                    <key>url</key>
-                    <string>https://hkcpqa.centanet.com/MobilePunchCardSSO/Ios/attendance_QA_1.0.0_gzw_20210727.ipa</string>
-                </dict>
-            </array>
-            <key>metadata</key>
-            <dict>
-                <key>bundle-identifier</key>
-                <string>com.centaline.attendance</string>
-                <key>bundle-version</key>
-                <string>1.0.1</string>
-                <key>kind</key>
-                <string>software</string>
-                <key>title</key>
-                <string>打咭易</string>
-            </dict>
-        </dict>
-    </array>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<string>manifest.plist</string>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/focuswei/ipa_distribue/blob/main/%E6%96%B0%E7%9B%A4%E8%B3%87%E8%A8%8A.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.centaline.firsthand.ios</string>
+				<key>bundle-version</key>
+				<string>2.1.15</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>新盤資訊</string>
+			</dict>
+		</dict>
+	</array>
 </dict>
 </plist>
